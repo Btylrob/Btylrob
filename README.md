@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 I am currently Information Technology Student at FIU.
 
 
