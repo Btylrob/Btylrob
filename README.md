@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am currently Information Technology Student at FIU.
+I am currently Comp Sci student at FIU.
 
 
 I code mainly in GO, Java, Python, Swift.
