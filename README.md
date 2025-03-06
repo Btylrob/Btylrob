@@ -3,7 +3,7 @@
 I am currently Comp Sci student at FIU.
 
 
-I code mainly in GO, Rust, JS, C.
+I code mainly in Go, Rust, Python, C.
 
 For more information, you can visit my personal website.
 
