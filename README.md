@@ -24,7 +24,7 @@ avrg Arch user 👨‍💻, Sophmore at FIU 👨‍🎓
 <a href="#">Check more about me here 🌟 </a>
 
 <p align="center">
-<a href="[https://www.linkedin.com/in/bran-robinson/]" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" alt="bran robinson" height="25" width="25" /></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/bran-robinson/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" alt="bran robinson" height="25" width="25" /></a>&nbsp;&nbsp;
 
 </p>
 
