@@ -6,7 +6,7 @@
 <h1 align="Center">  Hi There <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> , I'm Brandon <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghavytr-byte" alt="raghav-byte" /> </p>
 
-I'm a Computer Science Enthusiast  👨‍💻, Sophmore at FIU 👨‍🎓
+avrg Arch user 👨‍💻, Sophmore at FIU 👨‍🎓
 
 - 🔭 I’m currently fishing  
 - 🌱 I’m currently learning about Golang , huggingface transformers 
@@ -24,10 +24,8 @@ I'm a Computer Science Enthusiast  👨‍💻, Sophmore at FIU 👨‍🎓
 <a href="#">Check more about me here 🌟 </a>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/raghav-byte/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="raghav_shukl" height="25" width="25" /></a>&nbsp;&nbsp;
-<a href="https://twitter.com/_raghavit" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@_raghavit" height="25" width="25" /></a>&nbsp;&nbsp;
-<a href="https://dev.to/raghavbyte" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="@raghavbyte" height="25" width="25" /></a> &nbsp;&nbsp;
-<a href="https://instagram.com/raghav_shukl" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="raghav_shukl" height="25" width="25" /></a>&nbsp;&nbsp;
+<a href="[https://www.linkedin.com/in/bran-robinson/]" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" alt="bran robinson" height="25" width="25" /></a>&nbsp;&nbsp;
+
 </p>
 
 
