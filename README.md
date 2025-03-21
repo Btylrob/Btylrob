@@ -13,7 +13,7 @@ avrg Arch user 👨‍💻, Sophmore at FIU 👨‍🎓
 - 👯 I’m looking to collaborate on absolutely anything Go
 - 🤔 I’m looking for help in learning about Rust and System Design
 - 💬 Ask me about anything and everything 
-- 📫 How to reach me: &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:brantylro@gmailbinson.com)
+- 📫 How to reach me: &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:robib93@mail.broward.edu)
 - ⚡ Fun fact: Jack of all trades , Master of None ! 
 
 
