@@ -6,7 +6,7 @@
 <h1 align="Center">  Hi There <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> , I'm Brandon <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghavytr-byte" alt="raghav-byte" /> </p> 
 - 📫 How to reach me:  
-  [![Gmail Badge](https://img.shields.io/badge/-robib93@mail.broward.edu-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:robib93@mail.broward.edu)
+  [![Gmail Badge](https://img.shields.io/badge/-robib93%40mail.broward.edu-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:robib93@mail.broward.edu)
 
 
 ### Useless Github Stats About Brandon (Public Only)
