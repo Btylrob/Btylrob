@@ -1,6 +1,6 @@
 ## Hi there, I'm Brandon!
 
-I'm a sophomore at Florida International University, currently pursuing a Bachelor's degree in Computer Science.
+I'm a sophomore at Florida International University, currently pursuing a Bachelor's degree in Computer Science and minor in Statistics.
 
 My interests span a wide range of topics, including RDBMS, Linux, Networking, Systems Programming, and even a bit of Machine Learning. I enjoy exploring how different parts of computing systems work together and love getting hands-on with real-world projects.
 
